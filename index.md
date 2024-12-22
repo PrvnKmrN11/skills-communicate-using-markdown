@@ -4,3 +4,5 @@
 #### this is H4 text
 ##### this is H5 text
 ###### this is H6 text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
